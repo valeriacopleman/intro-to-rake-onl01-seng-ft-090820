@@ -15,11 +15,7 @@ desc 'outputs hello to the terminal'
   end
 end
 
-rake greeting:hello
-hello from Rake!
- 
-rake greeting:hola
-hola de Rake!
+
 
 
 namespace :db do
