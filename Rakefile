@@ -14,3 +14,9 @@ desc 'outputs hello to the terminal'
     puts "hola de Rake!"
   end
 end
+
+rake greeting:hello
+hello from Rake!
+ 
+rake greeting:hola
+hola de Rake!
